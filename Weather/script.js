@@ -49,4 +49,4 @@ document
     }
   });
 
-weather.fetchWeather("Denver");
+weather.fetchWeather("Kraków");
